@@ -48,7 +48,7 @@
       "title": "what is lorem Ipusm?",
       "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque qui sit similique voluptate pariatur perspiciatis vitae recusandae iure nobis, ea atque excepturi non impedit inventore eius a animi laudantium doloribus",
       "summary": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque qui sit similique voluptate pariatur perspiciatis vitae recusandae iure nobis, ea atque excepturi non impedit inventore eius a animi laudantium doloribus",
-      "image": "https://images.pexels.com/photos/380769/pexels-photo-380769.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "iamge": "https://images.pexels.com/photos/380769/pexels-photo-380769.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
 
     {
@@ -56,7 +56,7 @@
       "title": "what is lorem Ipusm?",
       "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque qui sit similique voluptate pariatur perspiciatis vitae recusandae iure nobis, ea atque excepturi non impedit inventore eius a animi laudantium doloribus",
       "summary": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque qui sit similique voluptate pariatur perspiciatis vitae recusandae iure nobis, ea atque excepturi non impedit inventore eius a animi laudantium doloribus",
-      "image": "https://images.pexels.com/photos/3184430/pexels-photo-3184430.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "iamge": "https://images.pexels.com/photos/3184430/pexels-photo-3184430.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       "id": 9,
@@ -70,14 +70,14 @@
       "title": "what is lorem Ipusm?",
       "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque qui sit similique voluptate pariatur perspiciatis vitae recusandae iure nobis, ea atque excepturi non impedit inventore eius a animi laudantium doloribus",
       "summary": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque qui sit similique voluptate pariatur perspiciatis vitae recusandae iure nobis, ea atque excepturi non impedit inventore eius a animi laudantium doloribus",
-      "image": "https://images.pexels.com/photos/3182762/pexels-photo-3182762.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "iamge": "https://images.pexels.com/photos/3182762/pexels-photo-3182762.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       "id": 11,
       "title": "what is lorem Ipusm?",
       "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque qui sit similique voluptate pariatur perspiciatis vitae recusandae iure nobis, ea atque excepturi non impedit inventore eius a animi laudantium doloribus",
       "summary": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque qui sit similique voluptate pariatur perspiciatis vitae recusandae iure nobis, ea atque excepturi non impedit inventore eius a animi laudantium doloribus",
-      "image": "https://images.pexels.com/photos/5256816/pexels-photo-5256816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "iamge": "https://images.pexels.com/photos/5256816/pexels-photo-5256816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       "id": 12,
@@ -91,21 +91,21 @@
       "title": "what is lorem Ipusm?",
       "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque qui sit similique voluptate pariatur perspiciatis vitae recusandae iure nobis, ea atque excepturi non impedit inventore eius a animi laudantium doloribus",
       "summary": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque qui sit similique voluptate pariatur perspiciatis vitae recusandae iure nobis, ea atque excepturi non impedit inventore eius a animi laudantium doloribus",
-      "image": "https://images.pexels.com/photos/3844533/pexels-photo-3844533.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "iamge": "https://images.pexels.com/photos/3844533/pexels-photo-3844533.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       "id": 14,
       "title": "what is lorem Ipusm?",
       "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque qui sit similique voluptate pariatur perspiciatis vitae recusandae iure nobis, ea atque excepturi non impedit inventore eius a animi laudantium doloribus",
       "summary": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque qui sit similique voluptate pariatur perspiciatis vitae recusandae iure nobis, ea atque excepturi non impedit inventore eius a animi laudantium doloribus",
-      "image": "https://images.pexels.com/photos/7433839/pexels-photo-7433839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "iamge": "https://images.pexels.com/photos/7433839/pexels-photo-7433839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       "id": 15,
       "title": "what is lorem Ipusm?",
       "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque qui sit similique voluptate pariatur perspiciatis vitae recusandae iure nobis, ea atque excepturi non impedit inventore eius a animi laudantium doloribus",
       "summary": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque qui sit similique voluptate pariatur perspiciatis vitae recusandae iure nobis, ea atque excepturi non impedit inventore eius a animi laudantium doloribus",
-      "image": "https://images.pexels.com/photos/3810756/pexels-photo-3810756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "iamge": "https://images.pexels.com/photos/3810756/pexels-photo-3810756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }
   ]
 }
